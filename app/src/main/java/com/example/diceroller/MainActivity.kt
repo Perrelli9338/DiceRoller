@@ -26,7 +26,8 @@ class MainActivity : ComponentActivity() {
         setContent {
             DiceRollerTheme {
                 DiceRollerApp()
-                // A surface container using the 'background' color from the theme
+                /** A surface container using the 'background' color from the theme
+                 */
 
             }
         }
